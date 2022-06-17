@@ -1,11 +1,5 @@
 The NWHL has finished their 2021 season, and are getting ready to build new rosters for 2021/2022.  Your Data Science team is hired by Toronto Six to help assemble a team for the new season.  You can choose any current player from any current team in the league. Some of the questions you may want to address are: 
 
 The coaches would like to select five top players.  The players should, ideally, excel in all areas of the game.  Since scoring goals is the ultimate objective, at least three should be excellent goal scorers and at least two should be excellent passers.  In addition, you need at least two faceoff specialists and one takeaway specialist.  It would be especially beneficial if the passers were familiar with the shooting specialists (i.e., had a good track record of completing passes to these players). 
-The coaches would like to select five power play specialists and four penalty kill specialists.  Note that the main objective of the power play is to score goals, while the main objective of the penalty kill is to prevent the opponent from doing so.  Thus, the key skills for a penalty killer are takeaways and precise passes.  For a power play specialist the key skills are successful shots and precise passes.
-Pick a player you feel should definitely be included on the team and explain why. Provide advice to this player on
-What types of shots should the player focus on from each position in the field?
-What types of passes should the player be attempting in the defensive and offensive zones?
-What are the key areas for improvement?
-Please select only one question to focus on (this does not have to be any of the questions listed above – feel free to make up your own question).
 
 Your submission should be in the form of a presentation to any NWHL General Manager addressing one or more of these points.  The presentation should be limited to 10 slides and be non-technical in nature (hockey staff are not known for their data science skills). It can be followed by an Appendix containing more technical descriptions of your work.  While you can also submit your code in a separate file, the presentation should be self-contained (i.e., it should not be necessary for the reader to open your code).
